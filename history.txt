@@ -1,0 +1,674 @@
+    1  sudo apt update
+    2  sudo apt upgrade -y
+    3  reboot
+    4  python
+    5  sudo apt install python3
+    6  python
+    7  python3
+    8  sudo apt get install Anaconda3-2019.07
+    9  sudo apt get install Anaconda3
+   10  sudo apt install Anaconda3
+   11  clear
+   12  ls
+   13  sudo chmod -R +x Anaconda3-2019.07-Linux-x86_64.sh
+   14  ls
+   15  sudo chmod -R +x Anaconda3-2019.07-Linux-x86_64.sh
+   16  sudo ./Anaconda3-2019.07-Linux-x86_64.sh 
+   17  conda
+   18  sudo nano ~/.bashrc
+   19  conda config --set auto_ativate_base
+   20  bash Anaconda3-2019.07-Linux-x86_64.sh 
+   21  source ~/.bashrc
+   22  conda deactivate
+   23  conda list
+   24  conda --update --all --yes
+   25  sudo apt install snap
+   26  sudo snap install code --classic
+   27  anaconda-navigator
+   28  jupyter notebook
+   29  conda --update --all --yes
+   30  anaconda-navigator
+   31  chmod -R 777 jetbrains-toolbox-1.2.2314
+   32  ./jetbrains-toolbox
+   33  python program.py
+   34  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   35  pip install bs4
+   36  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   37  pip install bs4
+   38  pip3 install --user package-name
+   39  sudo apt install python3-pip
+   40  pip list
+   41  pip install bs4
+   42  pip3 install --user package-name
+   43  pip3 install bs4
+   44  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   45  pip3 install logbook
+   46  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   47  Polokwane
+   48  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   49  a
+   50  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   51  Johannesburg
+   52  /usr/bin/python3 "/home/masai/Desktop/python/10 apps/weather_client/program.py"
+   53  sudo snap install vlc
+   54  jupyter notebook
+   55  import this
+   56  python
+   57  echo "# beer_drinking_nations" >> README.md
+   58  git init
+   59  git add README.md
+   60  git commit -m "first commit"
+   61  git config --global user.email 'mahapamasai@gmail.com'
+   62  git config --global user.name 'Masai'
+   63  git commit -m "first commit"
+   64  git remote add origin https://github.com/masaimahapa/beer_drinking_nations.git
+   65  git push -u origin master
+   66  git config --global user.email 'mahapamasai@gmail.com'
+   67  conda deactivate
+   68  git -v
+   69  sudo apt install git
+   70  git -v
+   71  echo "# beer_drinking_nations" >> README.md
+   72  git init
+   73  source /home/masai/anaconda3/bin/activate
+   74  conda activate base
+   75  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_program.py
+   76  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_reader.py
+   77  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_program.py
+   78  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_reader.py
+   79  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_program.py
+   80  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_reader.py
+   81  /home/masai/anaconda3/bin/python /home/masai/Downloads/data-master/alcohol-consumption/alcohol_program.py
+   82  pwd
+   83  ls -lrh
+   84  ls
+   85  ls /downloads
+   86  ls /Downloads
+   87  ls Desktop
+   88  ls Downloads
+   89  mkdir Learning_Unix
+   90  ls
+   91  Learning_Unix
+   92  /Learning_Unix
+   93  ./Learning_Unix
+   94  cd Learniing_Unix
+   95  pwd
+   96  ls
+   97  cd Learning_Unix
+   98  mkdir inner
+   99  ls
+  100  cd inner
+  101  mkdir -p too/much
+  102  cd too
+  103  cd much
+  104  cd /
+  105  cd home
+  106  cd Masai
+  107  ls
+  108  cd masai
+  109  ls
+  110  cd Learning_Unix
+  111  ls
+  112  cd inner
+  113  pwd
+  114  cd /home/masai
+  115  pwd
+  116  cd Learning_Unix
+  117  cd inner
+  118  cd home/masai/
+  119  cd /home/masai/
+  120  pwd
+  121  ls
+  122  cd Learning_Unix
+  123  cd inner
+  124  pwd
+  125  cd ..
+  126  pwd
+  127  cd inner
+  128  cd ../..
+  129  pwd
+  130  cd Learning_Unix
+  131  cd inner
+  132  ../../..
+  133  cd ../../..
+  134  cd masai
+  135  ls
+  136  cd ..
+  137  ls
+  138  cd ..
+  139  ls
+  140  cd home/masai/Desktop
+  141  cd /tmp
+  142  pwd
+  143  cd ..
+  144  cd home/masai/Desktop
+  145  cd /
+  146  pwd
+  147  cd ~
+  148  pwd
+  149  cd
+  150  pwd
+  151  cd Desktop
+  152  cd Learning_Unix
+  153  ls
+  154  cd ..
+  155  cd Downloads
+  156  ls
+  157  cd ..
+  158  ls
+  159  cd Learning_Unix
+  160  cd inner
+  161  cd /
+  162  pwd
+  163  cd home
+  164  cd masai
+  165  ls
+  166  cd Learning_Unix
+  167  cd ~/Learning_Unix
+  168  ls ../../
+  169  ls -l 
+  170  ls -R
+  171  ls -l -t -r
+  172  ls -l
+  173  ls -lh
+  174  cd/
+  175  /cd
+  176  man ls
+  177  man cd
+  178  man man
+  179  pwd
+  180  cd Learning_Unix
+  181  pwd
+  182  ls
+  183  rmdir inner
+  184  cd inner
+  185  ls
+  186  rmdir too
+  187  ls
+  188  cd ..
+  189  ls
+  190  rmdir inner/
+  191  cd inner
+  192  ls
+  193  cd too
+  194  ls
+  195  cd much
+  196  ls
+  197  cd ..
+  198  rmdir much
+  199  ld
+  200  cd ..
+  201  rmdir too
+  202  rmdir inner
+  203  ls
+  204  cd ..
+  205  rmdir inner
+  206  ls
+  207  pwd
+  208  cd ..
+  209  ls
+  210  cd Learning_Unix/
+  211  touch heaven.txt
+  212  ls
+  213  mkdir temp
+  214  ls
+  215  mv heaven.txt temp/
+  216  ls
+  217  cd temp
+  218  ls
+  219  touch each.txt
+  220  ls
+  221  mv *.txt ..
+  222  ls
+  223  ..
+  224  cd ..
+  225  ls
+  226  mv *ea* temp/
+  227  ls
+  228  cd temp
+  229  ls
+  230  cd ..
+  231  touch rags
+  232  ls
+  233  mv rags temp/riches
+  234  ls
+  235  cd temp
+  236  ls
+  237  pwd
+  238  cd ..
+  239  ls
+  240  toch haha
+  241  touch haha
+  242  ls
+  243  mv haha temp/not_funny
+  244  ls
+  245  cd temp
+  246  ls
+  247  cd ..
+  248  mv temp/not_funny temp/haha
+  249  ls
+  250  cd temp
+  251  ls
+  252  cd ..
+  253  ls
+  254  mkdir check
+  255  ls
+  256  mv check temp
+  257  ls
+  258  cd temp
+  259  ls
+  260  rm -i haha
+  261  ls
+  262  rm haha
+  263  ls
+  264  free -h
+  265  mpstat 1
+  266  source /home/masai/anaconda3/bin/activate
+  267  conda activate base
+  268  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/40-42-json-data/program.py
+  269  mv program program.py
+  270  ls
+  271  cd
+  272  python
+  273  ls
+  274  cd Learning_LInx
+  275  cd Learning_Linux
+  276  cd Learning_Unix
+  277  ls
+  278  cd temp
+  279  ls
+  280  ls check
+  281  cd check
+  282  ls
+  283  cd ..
+  284  ls
+  285  cp each.txt check
+  286  ls
+  287  ls check
+  288  cd
+  289  ls
+  290  cd ..
+  291  ls
+  292  cd ..
+  293  ls
+  294  cd
+  295  pwd
+  296  cd home
+  297  ls
+  298  cp -r Learning_Unix Desktop
+  299  ls
+  300  cd Learning_Unix
+  301  ls
+  302  cd
+  303  cd Desktop
+  304  ls
+  305  rm r- Learning_Unix
+  306  rmdir Learning_Unix
+  307  rmdir -r Learning_Unix
+  308  ls
+  309  md ls
+  310  cd ..
+  311  ls
+  312  cd Learning_Unix
+  313  ls
+  314  echo 'hay man'
+  315  echo 'hay man, testing' > open_this.txt
+  316  ls
+  317  open_this.txt
+  318  echo 'haha this changed' > open_this.txt
+  319  ls
+  320  less
+  321  less open_this.txt
+  322  cat open_this.txt
+  323  echo 'Line 2' >> open_this.txt
+  324  cat open_this.txt
+  325  wc -l open_this.txt
+  326  wc -l
+  327  ls -l
+  328  ls
+  329  cat open_this.txt
+  330  cd
+  331  ls
+  332  cd Downloads
+  333  ls
+  334  cd 100daysofcode-with-python-course-master/
+  335  ls
+  336  cd days
+  337  ls
+  338  cd 43-45-search-api/
+  339  ls
+  340  mdir practice
+  341  ls
+  342  mkdir practice
+  343  ls
+  344  cd practice
+  345  ls
+  346  touch api.py
+  347  ls
+  348  touch requirements.txt
+  349  ls
+  350  echo 'requests' > requirements.txt
+  351  ls
+  352  cat requirements.txt
+  353  source /home/masai/anaconda3/bin/activate
+  354  conda activate base
+  355  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/program.py
+  356  pip list
+  357  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/program.py
+  358  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/api.py
+  359  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/program.py
+  360  car
+  361  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/program.py
+  362  source /home/masai/anaconda3/bin/activate
+  363  conda activate base
+  364  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/43-45-search-api/practice/program.py
+  365  python
+  366  chromium-browser
+  367  ls
+  368  cd Learning_Unix
+  369  ls
+  370  nano open_this.txt
+  371  cat open_this.txt
+  372  echo $user
+  373  echo $USER
+  374  echo $HOME
+  375  echo $PATH
+  376  LS
+  377  ls
+  378  cat open_this.txt
+  379  grep -w open_this.txt
+  380  grep -i open_this.txt
+  381  grep line open_this.txt
+  382  cat open_this.txt
+  383  nano open_this.tx
+  384  cat open_this.txt
+  385  grep was open_this.txt
+  386  grep -v was open_this.txt
+  387  grep all open_this.txt
+  388  cat open_this.txt
+  389  grep -i all open_this.txt
+  390  ls
+  391  cd
+  392  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+  393  ls
+  394  mv grades.txt Learning_Unix
+  395  cd Learning_Unix
+  396  ls
+  397  cat Learning_Unix
+  398  cat grades.txt
+  399  cut -f 5 grades.txt
+  400  cut -f -2, 4-7,9 grades.txt
+  401  cut -f -2,4-7,9 grades.txt
+  402  cut -2,4-7,9 grades.txt > grades_no_cheaters.txt
+  403  cut -f -2,4-7,9 grades.txt > grades_no_cheaters.txt
+  404  ls
+  405  cat grades_no_cheaters.txt 
+  406  cut -f 3,8 grades.txt | paste grades_no_cheaters.txt - > sorted_grades.txt
+  407  ls
+  408  cat sorted_grades.txt 
+  409  ls
+  410  grep was open_this.txt
+  411  grep was open_this.txt | wc -c
+  412  grep was open_this.txt | sort | head -n 3 | wc -c
+  413  source /home/masai/anaconda3/bin/activate
+  414  conda activate base
+  415  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  416  python program.py
+  417  source /home/masai/anaconda3/bin/activate
+  418  conda activate base
+  419  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  420  home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  421  pip list
+  422  pip install cProfiler
+  423  pip install cProfile
+  424  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  425  python -m cProfile program.py
+  426  python -m cProfile -s cumtime program.py
+  427  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  428  conda activate base
+  429  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  430  sudo update code
+  431  sudo apt install code
+  432  snap install code
+  433  ls
+  434  pwd
+  435  mkdir workspace
+  436  ls
+  437  cd workspace
+  438  ls
+  439  touch README.md
+  440  cp README.md CHANGELOG.md
+  441  ls
+  442  touch exercise.md /tmp
+  443  /tmp
+  444  cd /tmp
+  445  cd
+  446  ls
+  447  rm -i /tmp/exercise.md
+  448  /tmp
+  449  cd tmp
+  450  cd /tmp
+  451  ls
+  452  cd ..
+  453  cd
+  454  ls
+  455  cd workspace
+  456  ls
+  457  mv excercise.md /tmp
+  458  /tmp
+  459  cd tmp
+  460  cd /tmp
+  461  ls
+  462  cd
+  463  cd workspace
+  464  ls
+  465  cd
+  466  ls
+  467  cd ..
+  468  ls
+  469  cd ..
+  470  ls
+  471  pwd
+  472  cd
+  473  cd workspace
+  474  cd ~/../tmp
+  475  ls
+  476  mv exercise.md ../../../tmp
+  477  cd /
+  478  ls
+  479  cd tmp
+  480  ls
+  481  cd /
+  482  cd
+  483  ls
+  484  cd Desktop
+  485  ls
+  486  cd
+  487  cd workspace
+  488  ls
+  489  rm -i excercise.md /tmp
+  490  rm exercise.md /tmp
+  491  rm exercise.md /tmp/
+  492  cd /tmp
+  493  ls
+  494  rm -i exercise.md
+  495  cd
+  496  ls
+  497  cd workspace
+  498  ls
+  499  rm exercise.md /tmp
+  500  cd home/../tmp
+  501  cd home
+  502  cd /home/..
+  503  ls
+  504  cd
+  505  cd workspace
+  506  cd /home/../tmp
+  507  cd
+  508  cd workspace
+  509  rm exercise.md /home/../tmp
+  510  rm /home/../tmp/exercise.md
+  511  cd
+  512  cd ..
+  513  ls
+  514  cd /tmp
+  515  ls
+  516  cd
+  517  ls
+  518  cd workspace
+  519  ls
+  520  cat umuzi.md
+  521  touch umuzi.md
+  522  touch recruits.md
+  523  touch cohort.md
+  524  nano umuzi.md
+  525  nano recruits.md
+  526  nano cohort.md
+  527  touch summary.md
+  528  cat umuzi.md >> summary.md | cat cohort >> summary.md | cat recruits.md >> summary.md
+  529  cat umuzi.md >> summary.md | cat cohort.md >> summary.md | cat recruits.md >> summary.md
+  530  ls
+  531  cat summary.md
+  532  cat umuzi.md
+  533  cat recruits.md
+  534  cat umuzi.md >> summary.md | cat recruits.md >> summary.md | cat cohort.md >> summary.md
+  535  cat '' > summary.md
+  536  rm summary.md
+  537  touch summary.md
+  538  cat umuzi.md >> summary.md | cat recruits.md >> summary.md | cat cohort.md >> summary.md
+  539  cat summary.md
+  540  umuzi.md
+  541  cat umuzi.md
+  542  cat recruits.md
+  543  locate umuzi
+  544  locate umuzi.md
+  545  touch search_result.md
+  546  locate umuzi >> search_result.md
+  547  cat search_result.md
+  548  cd
+  549  ls
+  550  cd Documents
+  551  touch pad.md
+  552  ls
+  553  cd /Desktop
+  554  cd ../Desktop
+  555  mkdir work
+  556  cd work
+  557  cp ../../Documents/pad.md pad_copy.md
+  558  ls
+  559  locate updatedb
+  560  cd
+  561  locate pad_copy.md
+  562  cd Desktop
+  563  locate pad_copy.md
+  564  ls
+  565  cd work
+  566  ls
+  567  locate pad_copy
+  568  locate pad_copy.md
+  569  sudo updatedb
+  570  locate pad_copy.md
+  571  cd
+  572  locate pad_copy.md
+  573  locate *.pdf
+  574  touch search results
+  575  locate *.pdf > search results
+  576  ls
+  577  touch search_results
+  578  ls
+  579  mv search_results search_results.md
+  580  locate *.pdf > search_results.md
+  581  nano my_bio.md
+  582  mkdir my_files
+  583  mv my_bio.md my_files
+  584  python program.py
+  585  program.py
+  586  python program.py
+  587  source /home/masai/anaconda3/bin/activate
+  588  conda activate base
+  589  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/49-51-measuring-perf/scraper_cProfile.py
+  590  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/chess_scraper/program.py
+  591  ls
+  592  mkdir git-basic-exercises
+  593  cd git-basic-exercises/
+  594  ls -a
+  595  git init
+  596  ls -a
+  597  git status
+  598  touch README.md
+  599  ls
+  600  ls -a
+  601  git status
+  602  git add README.md
+  603  ls
+  604  git log
+  605  git status
+  606  git reset README.md
+  607  git status
+  608  git add README.md
+  609  git status
+  610  git commit -"initial commit"
+  611  git commit -m "initial commit"
+  612  git log
+  613  nano README.md
+  614  cat README.md
+  615  git status
+  616  git add README.md
+  617  git status
+  618  git commit -m "second commit"
+  619  nano README.md
+  620  git commit -m"third commit"
+  621  git add README.md
+  622  git commit -m"third commit"
+  623  git log
+  624  git checkout 983a02454cef15f410f7b71cd124e6cc0d918262
+  625  cat README.md
+  626  git checkout master
+  627  cat README.md
+  628  python pull_xml.py
+  629  python pull_xml.py
+  630  python parser.py
+  631  python pull_xml.py
+  632  python parser.py
+  633  source /home/masai/anaconda3/bin/activate
+  634  conda activate base
+  635  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/46-48-beautifulsoup4/pull_xml.py
+  636  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/pull_xml.py
+  637  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/parser.py
+  638  pip install feedparser
+  639  feed/home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/parser.py
+  640  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/parser.py
+  641  pip install feedparser
+  642  pip install feedparser --user
+  643  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/parser.py
+  644  /home/masai/anaconda3/bin/python /home/masai/Downloads/100daysofcode-with-python-course-master/days/52-54-feedparser/pull_xml.py
+  645  ls
+  646  cd Music
+  647  ls
+  648  cd ..
+  649  clear
+  650  exit
+  651  sudo apt install terminator
+  652  terminator
+  653  ls
+  654  cd git-basic-exercises/
+  655  git status
+  656  git init
+  657  git status
+  658  git branch
+  659  git checkout milkshake-flavours
+  660  git branch
+  661  nano milkshake.md
+  662  git status
+  663  git commit -m'added initial flavours'
+  664  git add milkshake.md
+  665  git status
+  666  git commit -m'added initl flavours'
+  667  git log
+  668  git branch
+  669  git checkout master
+  670  git branch -b history
+  671  git checkout -b history
+  672  git log
+  673  git commit -m'added history'
+  674  history > history.txt
